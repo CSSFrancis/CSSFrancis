@@ -15,7 +15,7 @@ Examples of my Previous work:
 -----------------------------
 
 If you are interested in my previous work, my contributions to pyxem and HyperSpy provide good examples.  Most of the 
-work there is related to lazy, out of memory integrations with dask, data visualization increasing file i-o performance. 
+work there is related to lazy, out of memory integrations with dask, data visualization and increasing file i-o performance. 
 
 
 
