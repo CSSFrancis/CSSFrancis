@@ -1,4 +1,23 @@
-### Hi there 👋
+Hi & Welcome to my Profile!
+===========================
+
+I'm a PhD canidate working at the University of Wisconsin Madison on method and tecnique development for 4D STEM.  I 
+currently spend most of my development time working on the open source projects HyperSpy, pyxem and affiliated projects.
+
+I'm particually interested in:
+------------------------------
+
+- Processing big microscope datasets quickly using distributed and out of memory processing
+- Characterizing complex glassy materials
+- Open source projects for data visualization and processing
+
+Examples of my Previous work:
+-----------------------------
+
+If you are interested in my previous work, my contributions to pyxem and HyperSpy provide good examples.  Most of the 
+work there is related to lazy, out of memory integrations with dask, data visualization increasing file i-o performance. 
+
+
 
 <!--
 **CSSFrancis/CSSFrancis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
