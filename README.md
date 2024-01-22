@@ -1,7 +1,7 @@
 Hi & Welcome to my Profile!
 ===========================
 
-I'm a PhD canidate working at the University of Wisconsin Madison on method and tecnique development for 4D STEM.  I 
+I'm a PhD candidate working at the University of Wisconsin Madison on method and tecnique development for 4D STEM.  I 
 currently spend most of my development time working on the open source projects HyperSpy, pyxem and affiliated projects.
 
 I'm particually interested in:
