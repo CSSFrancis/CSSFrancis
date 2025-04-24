@@ -1,7 +1,7 @@
 Hi & Welcome to my Profile!
 ===========================
 
-I'm a Applications Scientist working for Direct Electron.  My background is in tecnique development for 4D STEM (and 5D STEM!).  I 
+I'm a Reaseach and Development Scientist working for Direct Electron.  My background is in tecnique development for 4D STEM (and 5D STEM!).  I 
 currently spend most of my open source development time working on HyperSpy, pyxem and affiliated projects.
 
 I'm particually interested in:
